@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+header{
+	font-size: 2em;
+	margin-bottom: 0.5em;
+}
+a{
+	color: royalblue;
+}
+.contenedor{
+	width: 80%;
+	max-width: 950px;
+	background-color: gray;
+	border: 2px solid red;
+	color: white;
+	padding-bottom: 15px;
+}
+h2{
+	color:red;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.menu{
+	margin-left: 3em;
+	margin-bottom: 2.5em;
+}
+.menu a{
+	padding: 5px;
+	text-decoration: none;
+}
+.menu a:hover{
+	color: black;
+}
